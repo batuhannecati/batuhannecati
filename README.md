@@ -1,30 +1,40 @@
-<h1 align="center">Welcome to My GitHub! 👋</h1>
+<h1 align="center">Welcome to My GitHub Universe! 🌌</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Born-October%2010%2C%202001-blue" alt="Birthdate">
-  <img src="https://img.shields.io/badge/Location-İzmir,%20Turkey-orange" alt="Location">
-  <img src="https://img.shields.io/badge/Experience-Since%202012-green" alt="Experience">
+  <img src="https://img.shields.io/badge/Born-October%2010%2C%202001-blueviolet?style=for-the-badge" alt="Birthdate">
+  <img src="https://img.shields.io/badge/Location-İzmir,%20Turkey-red?style=for-the-badge" alt="Location">
+  <img src="https://img.shields.io/badge/Experience-Since%202012-brightgreen?style=for-the-badge" alt="Experience">
 </p>
 
 <p align="center">
-  Hi there! I'm a passionate software developer from İzmir, Turkey. 
-  My journey in the world of code began in 2012 with <strong>Unity 3D</strong>. 
-  Since then, I've developed multiple games and transitioned into freelance web development.
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
 </p>
 
-<h2>💻 Tech Stack</h2>
-<ul>
-  <li><strong>Programming Languages:</strong> C#, PHP, HTML/CSS</li>
-  <li><strong>Game Development:</strong> Unity 3D</li>
-  <li><strong>Design Tools:</strong> PSD</li>
-</ul>
-
-<h2>🚀 Projects</h2>
-<p>
-  I'm constantly working on new and exciting projects. Check out my repositories to see what I'm currently up to!
+<p align="center">
+  Hi there! I'm a software developer with roots in <strong>Izmir, Turkey</strong>. 
+  I began my coding journey in 2012 and have since grown into a skilled game developer and freelance web designer.
+  My passion lies in creating interactive experiences and bringing ideas to life through code.
 </p>
 
-<h2>📫 Get in Touch</h2>
-<p>
-  Whether it's collaboration or just a chat, feel free to reach out!
+<h2 align="center">🛠️ My Toolbox</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-C%23-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Game_Dev-Unity_3D-lightgrey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Design-PSD-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Frontend-HTML/CSS-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Backend-PHP-informational?style=for-the-badge">
+</p>
+
+<h2 align="center">🚀 My Projects</h2>
+<p align="center">
+  Explore my repositories to see what I'm building! From games to websites, I love working on diverse projects.
+</p>
+
+<h2 align="center">📫 Let's Connect</h2>
+<p align="center">
+  I'm always open to collaboration or just chatting about tech. Feel free to reach out!
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26Ff4XQ8TMRdBePBu/giphy.gif" width="200" alt="Developer gif">
 </p>
