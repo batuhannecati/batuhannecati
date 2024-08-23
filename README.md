@@ -42,5 +42,4 @@
   <a href="https://linkedin.com/in/batuhannecati">
     <img src="https://img.shields.io/badge/LinkedIn-batuhannecati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
 </p>
