@@ -36,5 +36,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26Ff4XQ8TMRdBePBu/giphy.gif" width="200" alt="Developer gif">
+  [![Instagram](https://img.shields.io/badge/Instagram-%40necobatu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/necobatu)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-batuhannecati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/batuhannecati)
+
+
 </p>
