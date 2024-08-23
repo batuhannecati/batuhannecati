@@ -36,8 +36,11 @@
 </p>
 
 <p align="center">
-  [![Instagram](https://img.shields.io/badge/Instagram-%40necobatu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/necobatu)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-batuhannecati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/batuhannecati)
-
+  <a href="https://instagram.com/necobatu">
+    <img src="https://img.shields.io/badge/Instagram-%40necobatu-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linkedin.com/in/batuhannecati">
+    <img src="https://img.shields.io/badge/LinkedIn-batuhannecati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
 </p>
