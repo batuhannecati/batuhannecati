@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.hizliresim.com/613cnnh.gif" width="300" alt="Coding gif">
+  <img src="https://i.hizliresim.com/613cnnh.gif" width="600" alt="Coding gif">
 </p>
 
 <p align="center">
